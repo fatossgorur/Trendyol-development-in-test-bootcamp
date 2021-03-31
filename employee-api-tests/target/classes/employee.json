@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "name": "test",
+    "salary": "7000",
+    "age": "28",
+    "id": 170201068
+  }
+}
